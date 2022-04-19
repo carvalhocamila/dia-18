@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+}
+
+header{
+    align-items: center;
+}
+
+li{
+    display: inline-block;
+}
